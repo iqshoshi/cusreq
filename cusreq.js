@@ -1,7 +1,7 @@
 function onFormSubmit(e) {
   // ===== CONFIGURATION =====
-  const MASTER_SHEET_ID   = "1ZIiakh2I431XN-kG8lDwOhfffA3rik5ZBqqkGzkavaw"; 
-  const MASTER_TAB_NAME   = "test_items";
+  const MASTER_SHEET_ID   = "<<<DATABASE SHEET ID>>>"; 
+  const MASTER_TAB_NAME   = "<<<<eg:test_items>>>>";
   const RESPONSE_TAB_NAME = "Form responses 1";
 
   // Master sheet column numbers
